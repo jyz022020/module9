@@ -2,13 +2,15 @@
 
 Work with a partner to implement the following user story:
 
-* As a player, I want to click on a card and view the hidden number.
+- As a player, I want to click on a card and view the hidden number.
 
 ## Acceptance Criteria
 
-* It is done when I click on a card and the hidden number is revealed.
+- It is done when I click on a card and the hidden number is revealed.
 
-* It is done when the number is visible if the card is clicked.
+- It is done when the number is visible if the card is clicked.
+
+- If I click on a card while it is visible, the number will be hidden.
 
 ## Assets
 
@@ -26,9 +28,10 @@ How can we use the `dataset` object to access an element's data attributes?
 
 If you have completed this activity, work through the following challenge with your partner to further your knowledge:
 
-* We have learned `getAttribute()` and `setAttribute()`. What other methods can you use to access an element's attributes?
+- We have learned `getAttribute()` and `setAttribute()`. What other methods can you use to access an element's attributes?
 
 Use [Google](https://www.google.com) or another search engine to research this.
 
 ---
+
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
